@@ -72,8 +72,6 @@ nav ul li a:hover {
   justify-content: space-between;
   padding: 60px 30px;
   gap: 40px;
-  animation: fadeSlideDown 1s ease-in-out forwards;
-  opacity: 0;
 }
 
 .hero-left {
@@ -95,6 +93,7 @@ nav ul li a:hover {
   font-weight: 500;
   margin: 10px 0;
   border-right: 2px solid #38bdf8;
+  display: inline-block;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -128,6 +127,7 @@ nav ul li a:hover {
   background-color: #334155;
   color: #f8fafc;
   font-weight: 500;
+  display: inline-block;
   transition: background 0.3s ease;
 }
 
@@ -140,6 +140,7 @@ nav ul li a:hover {
   min-width: 300px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .profile-pic {
@@ -147,7 +148,7 @@ nav ul li a:hover {
   height: 280px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 9px 16px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.5);
 }
 
 .social-icons {

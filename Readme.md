@@ -2,7 +2,7 @@
 
 A sleek, responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This site showcases my professional experience, project work, certifications, and technical skills.  
 
-Live Preview 👉 [View Site](https://ulaganathan0709.github.io/)
+Live Preview 👉 [View Site](https://ulaganathan0709.github.io/Portfoilio/)
 
 ---
 
@@ -68,11 +68,11 @@ Live Preview 👉 [View Site](https://ulaganathan0709.github.io/)
 
 2. Navigate into the Project Folder
 
-cd portfolio
+```cd portfolio
 
 3. Open the Portfolio
 
-If you're on Windows, double-click index.html
+```If you're on Windows, double-click index.html
 
 
 
