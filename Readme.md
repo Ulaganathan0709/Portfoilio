@@ -2,7 +2,7 @@
 
 A sleek, responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This site showcases my professional experience, project work, certifications, and technical skills.  
 
-Live Preview 👉 [View Site](https://ulaganathan0709.github.io/Portfoilio/)
+Live Preview 👉 [View Site](https://ulaganathan0709.github.io/ulaganathan_portfolio/)
 
 ---
 
